@@ -35,5 +35,7 @@ Hello there, Nice to have you here!!!👋
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOluniyi&show_icons=true&theme=gotham" alt="victoroluniyi" /></p> 
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Connect with me
 <img src= "uni-1.png" width="300" /> <img src="{D682E136-F17E-44AA-8EF7-D50BE1D06040}.png" width="300" /> <img src="Y Combinator Analysis fake-1.png"  width="320" />
