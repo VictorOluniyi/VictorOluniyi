@@ -36,4 +36,4 @@ Hello there, Nice to have you here!!!👋
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOluniyi&show_icons=true&theme=gotham" alt="victoroluniyi" /></p> 
 
 ## <h3 align="left">Connect with me:</h3>
-<img align="left" src= "uni-1.png" width="300" /> <img align="middle" src="{D682E136-F17E-44AA-8EF7-D50BE1D06040}.png" width="300" /> <img align="right" src="Y Combinator Analysis fake-1.png"  width="320" />
+<img src= "uni-1.png" width="300" /> <img src="{D682E136-F17E-44AA-8EF7-D50BE1D06040}.png" width="300" /> <img src="Y Combinator Analysis fake-1.png"  width="320" />
