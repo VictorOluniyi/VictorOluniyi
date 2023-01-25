@@ -33,6 +33,7 @@ Hello there, Nice to have you here!!!👋
   
 ## Github Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoroluniyi&label=Profile%20views&color=0e75b6&style=flat" alt="victoroluniyi" /> </p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=victoroluniyi&show_icons=true&theme=gotham" alt="victoroluniyi" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOluniyi&show_icons=true&theme=gotham" alt="victoroluniyi" /></p> 
