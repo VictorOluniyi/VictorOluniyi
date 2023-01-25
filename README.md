@@ -3,7 +3,6 @@ Hello there, Nice to have you here!!!👋
 <h1 align="center">Hi 👋, I'm Victor Oluniyi</h1>
 <h3 align="center">A passionate Data Analyst/Business Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=victoroluniyi&label=Profile%20views&color=0e75b6&style=flat" alt="victoroluniyi" /> </p>
 
 - 🔭 I’m a data analyst and business analyst, and i help businesses make intelligible/data driven decisions by drawing out actionable insights from business data. I also help in designing structured database for business
 
