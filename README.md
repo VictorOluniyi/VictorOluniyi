@@ -14,9 +14,9 @@ Hello there, Nice to have you here!!!👋
 
 - 💬 Ask me about **Data Analytics, Business Development**
 
-- 📫 How to reach me **voluniyi@gmail.com**
+- 📫 How to reach me: **voluniyi@gmail.com**
 
-- ⚡ Fun fact **Reading, Travelling**
+- ⚡ Fun fact: **Reading, Travelling**
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,6 +32,6 @@ Hello there, Nice to have you here!!!👋
 
 ## Github Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=victoroluniyi&show_icons=true&theme=gotham" alt="victoroluniyi" /></p>
+## <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=victoroluniyi&show_icons=true&theme=gotham" alt="victoroluniyi" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=VictorOluniyi&show_icons=true&theme=gotham" alt="victoroluniyi" /></p> 
