@@ -29,7 +29,7 @@ Hello there, Nice to have you here!!!👋
 
 ## 
 ## Examples of Work
-<img src= "uni-1.png" width="270" /> <img src="{D682E136-F17E-44AA-8EF7-D50BE1D06040}.png" width="270" /> <img src="Y Combinator Analysis fake-1.png"  width="270" />
+<img src= "uni-1.png" width="280" /> <img src="{D682E136-F17E-44AA-8EF7-D50BE1D06040}.png" width="280" /> <img src="Y Combinator Analysis fake-1.png"  width="300" />
   
 ## Github Stats
 
