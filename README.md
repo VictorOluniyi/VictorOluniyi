@@ -30,8 +30,19 @@ Hello there, Nice to have you here!!!👋
 
 
 
-## <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoroluniyi&show_icons=true&locale=en&layout=compact" alt="victoroluniyi" /></p>
+## 
+Github Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoroluniyi&show_icons=true&locale=en&layout=compact" alt="victoroluniyi" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=victoroluniyi&show_icons=true&locale=en" alt="victoroluniyi" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=victoroluniyi&" alt="victoroluniyi" /></p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorOluniyi&hide=java,css,Roff,Tex&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+![VictorOluniyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorOluniyi&show_icons=true&theme=gotham)
+
