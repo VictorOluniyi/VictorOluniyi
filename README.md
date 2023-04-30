@@ -6,7 +6,7 @@ Hello there, Nice to have you here!!!👋
 
 - 🔭 I’m a data analyst and business analyst, and i help businesses make intelligible/data driven decisions by drawing out actionable insights from business data. I also help in designing structured database for business
 
-- 🌱 I’m currently learning **SQL** and **Database Designing
+- 🌱 I’m currently learning **SQL** and **Database Designing**
 
 - 👯 I’m looking to collaborate on **any interesting data analysis projects**
 
