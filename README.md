@@ -6,7 +6,7 @@ Hello there, Nice to have you here!!!👋
 
 - 🔭 I’m a data analyst and business analyst, and i help businesses make intelligible/data driven decisions by drawing out actionable insights from business data. I also help in designing structured database for business
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SQL** and **Database Designing
 
 - 👯 I’m looking to collaborate on **any interesting data analysis projects**
 
@@ -15,6 +15,8 @@ Hello there, Nice to have you here!!!👋
 - 📫 How to reach me: **voluniyi@gmail.com**
 
 - ⚡ Fun fact: **Reading, Travelling**
+
+- 💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and Twitter.
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
