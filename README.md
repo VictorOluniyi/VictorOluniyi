@@ -1,7 +1,7 @@
 Hello there, Nice to have you here!!!👋
 ![MasterHead](https://static.wixstatic.com/media/3e99b9_f53a1cab95ae4dfd938a1bf6a1a62f49~mv2.gif)
 <h1 align="center">Hi 👋, I'm Victor Oluniyi</h1>
-<h3 align="center">A passionate Data Analyst/Business Analyst</h3>
+<h3 align="center">A passionate Data Analyst/Database Developer</h3>
 
 
 - 🔭 I’m a data analyst and business analyst, and i help businesses make intelligible/data driven decisions by drawing out actionable insights from business data. I also help in designing structured database for business
